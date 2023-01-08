@@ -1,0 +1,8 @@
+# VSCODE
+.vscode
+
+# PYTHON
+__pycache__
+
+# ENVIRONMENT VARIABLES
+venv
